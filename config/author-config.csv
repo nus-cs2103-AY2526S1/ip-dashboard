@@ -1,7 +1,7 @@
 Repository's Location,Branch,Author's GitHub ID,Author's Emails,Author's Display Name,Author's Git Author Name,Ignore Glob List
 https://github.com/castryl/ip.git,master,castryl,,CS2103-F11-2 LOW .. IAN,,
 https://github.com/isaacyclai/ip.git,master,isaacyclai,,CS2103-F09-1 ISAA..HUNG,,
-https://github.com/pokedot/ip.git,master,pokedot,,CS2103-F10-2 NG M.. JIE,,
+https://github.com/pokedot/ip.git,master,pokedot,,CS2103-F10-2 NG M.. JIE,mj,
 https://github.com/udonzzz/ip.git,master,udonzzz,,CS2103-F09-2 ADON.. YAP,adon,
 https://github.com/weihan-01/ip.git,master,weihan-01,,CS2103-F13-4 TAN .. HAN,,
 https://github.com/learningcoding-pixel/ip.git,master,learningcoding-pixel,,CS2103-F13-1 YIN .. HAO,,
