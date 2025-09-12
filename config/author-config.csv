@@ -1,6 +1,6 @@
 Repository's Location,Branch,Author's GitHub ID,Author's Emails,Author's Display Name,Author's Git Author Name,Ignore Glob List
 https://github.com/castryl/ip.git,master,castryl,,CS2103-F11-2 LOW .. IAN,,
-https://github.com/isaacyclai/ip.git,master,isaacyclai,,CS2103-F09-1 ISAA..HUNG,,
+https://github.com/isaacyclai/ip.git,master,isaacyclai,,CS2103-F09-1 ISAA..HUNG,Isaac Lai,
 https://github.com/pokedot/ip.git,master,pokedot,,CS2103-F10-2 NG M.. JIE,mj,
 https://github.com/udonzzz/ip.git,master,udonzzz,,CS2103-F09-2 ADON.. YAP,adon,
 https://github.com/weihan-01/ip.git,master,weihan-01,,CS2103-F13-4 TAN .. HAN,,
@@ -188,7 +188,7 @@ https://github.com/soakedumplings/ip.git,master,soakedumplings,,CS2103T-F08a-1 B
 https://github.com/Bobbodi/ip.git,master,Bobbodi,,CS2103T-F10-2 LEE ..XUAN,,
 https://github.com/Joulenergy/ip.git,master,Joulenergy,,CS2103T-T11-3 HUAN..LENE,,
 https://github.com/Hypovolemic/ip.git,master,Hypovolemic,,CS2103T-F14b-1 WONG..FENG,Wei Feng,
-https://github.com/MarcusLeongHK/ip.git,master,MarcusLeongHK,,CS2103T-F08b-4 MARC..KITT,Marcus,
+https://github.com/MarcusLeongHK/ip.git,master,MarcusLeongHK,,CS2103T-F08b-4 MARC..KITT,Marcus;Marcus Leong,
 https://github.com/camlin-tan/ip.git,master,camlin-tan,,CS2103T-F11-1 TAN ..MLIN,,
 https://github.com/wengmu/ip.git,master,wengmu,,CS2103T-W10-2 CHIA.. MUN,Dunkin;FlyingMun,
 https://github.com/WeeJean/ip.git,master,WeeJean,,CS2103T-F10-4 KOH ..JEAN,Wee Jean,
